@@ -1,0 +1,20 @@
+
+@media print{
+a[href]:after {
+content: " (" attr(href) ")";
+display:none;
+}
+
+
+#company {
+display:none;
+}
+
+
+* {
+text-shadow: none !important;
+color: #0074ae !important;
+background: transparent !important;
+box-shadow: none !important;
+}
+}

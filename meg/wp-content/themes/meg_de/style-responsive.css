@@ -1,0 +1,1149 @@
+
+
+/*IPAD SIZE*/
+@media screen and (max-width: 767px) {
+
+
+
+/*--------------------------------------------------------------Home-----------*/
+#logoTop {
+margin-left: 10px;
+width: 325px;
+height: 40px;
+background-image: url("images/stuff/logo-smart.png");
+background-position: 0px 9px;
+background-repeat: no-repeat;
+list-style: none;
+}
+.heroPhone{display:none;}
+
+#isProdukt1 {
+display:none;}
+
+
+
+#recentApp2{display:none;}
+
+#recentApp3{display:none;}
+
+#recentApp5{display:none;}
+
+#recentApp6{display:none;}
+
+#recentApp8{display:none;}
+
+#recentApp9{display:none;}
+
+
+
+#logo2 {
+display: none;
+}
+#logo8{
+display: none;
+}
+#logo14 {
+display: none;
+}
+
+
+#logo2{display:none;}
+
+
+#logo5{display:none;}
+
+#logo6{display:none;}
+
+#logo9{display:none;}
+
+
+#logo12{display:none;}
+#logo13{display:none;}
+
+#logo16{display:none;}
+
+
+
+#isHome1{display:none;}
+#isHome2{display:none;}
+
+.videoLap {
+background-image: url("images/home/lapvideo.png");
+background-repeat: no-repeat;
+background-size: 100%;
+min-width: 100%;
+max-width: 100%;
+min-height: 490px;
+margin-top: -120px;
+z-index: 9999;
+-moz-background-size: contain;
+-webkit-background-size: contain;
+background-size: contain;
+}
+
+#sectionHomeVideo {
+margin-top: 30px;
+margin: 0 auto;
+height: 200px;
+background-color: #ededed;
+z-index: 9;
+background: url("images/home/ipadvideo.png") #ededed 50% 0 fixed;
+background-size: 1100px auto;
+background-repeat: repeat-y;
+margin: 0 auto;
+width: 100%;
+position: relative;
+border-bottom: solid 1px #fff;
+border-top: solid 1px #fff;
+box-shadow: 1px 0 0 1px #ededed;
+padding: 60px 0 0 0;
+}
+
+#footerMap {
+width: 285px;
+height: 300px;
+background-image: url("images/footer/footerMap.png");
+background-position: 50% 50%;
+background-repeat: no-repeat;
+margin: 0 auto;
+margin-bottom: -60px;
+margin-top: 60px;
+
+}
+
+
+.recentAppHead {
+padding-top: 2px;
+font-size: 2px;
+}
+
+#product-iphone {
+
+display: none;
+}
+
+
+.icons{
+margin:0 auto;
+
+   text-align:center;}
+
+
+
+
+.veranstaltungText {
+min-height: 100px;
+margin-bottom:30px;
+
+}
+
+.hover{min-height:280px; margin-top:1px;}
+
+
+
+.buttonVideo{
+  background-image:url("images/icons/buttonArrow.png");
+  background-repeat:no-repeat;
+  background-position:50% 50%;
+  position:absolute;
+  width:60px;
+  height:60px;
+
+  margin-bottom:-200px;
+  padding:5px;
+  background-color:rgba(51, 51, 51, .0);
+  border-radius:90px;
+  margin-top:120px;
+  border: solid 3px #fff;
+  font-weight:400;
+  color:#fff;
+  margin-left:20px;
+  -webkit-transition: background .3s linear;
+  -moz-transition: background .3s linear;
+  transition: background .3s linear;
+  margin-right:-60px;
+  }
+
+.buttonVideo:first-child{margin-left:-30px;}
+.buttonVideo:hover{
+  width:60px;
+  height:60px;
+
+  margin-bottom:-800px;
+  padding:10px;
+  background-color:#005695;
+  border-radius:90px;
+  margin-top:120px;
+  font-weight:400;
+  color:#fff;
+  -webkit-transition: background .3s linear;
+  -moz-transition: background .3s linear;
+  transition: background .3s linear;
+  }
+
+
+.buttonVideo:after{
+
+  width:35px;
+  height:30px;
+  background-image:url("images/icons/buttonArrow.png");
+  background-position:10px 5px;
+  background-size:30px 30px;
+  background-repeat:no-repeat;
+    }
+
+.buttonVideo:hover:after{
+
+  width:25px;
+  height:20px;
+  background-image:url("images/icons/buttonArrow.png");
+  background-position:10px 5px;
+  background-size:10px 10px;
+  background-repeat:no-repeat;
+    }
+
+
+/*--------------------------------------------------------------Produkt-----------*/
+
+#isProdukt1 {display:none;}
+
+
+
+}
+
+/*--------------------------------------------------------------MEDIA QUERY IPAD-----------*/
+@media screen and (max-width: 768px)  {
+
+/*--------------------------------MEDIA QUERY IPAD NAVIGATION----------*/
+.navbar-nav {
+float: right;
+text-align: center;
+}
+
+
+/*--------------------------------------------------------------MEDIA QUERY IPAD HOME-----------*/
+.heroPhone {
+background: url(images/product/phone-white1.png);
+background-repeat: no-repeat;
+height: 480px;
+min-width: 100px;
+text-indent: -9999px;
+margin-top: -70px;
+margin-bottom: -20px;
+-moz-background-size: contain;
+-webkit-background-size: contain;
+background-size: contain;
+margin-left: -10px !important;
+}
+
+.heroText {
+min-width: 300px;
+padding: 20px;
+padding-left: 20px;
+margin-left: 20px !important;
+margin-top: 0px;
+margin-bottom: -20px;
+-moz-background-size: contain;
+-webkit-background-size: contain;
+background-size: contain;
+background: rgb(255, 255, 255);
+background: rgba(51, 51, 51, .0);
+background: #fff .5;
+}
+
+
+
+.veranstaltungText {
+min-height: 100px;
+margin-bottom: 20px;
+}
+
+.icons h4 {
+padding-bottom: 1px;
+}
+
+
+.hover {
+height: 252px;
+padding-top:10px;
+}
+
+#isProdukt1 {display:none;}
+
+
+#sectionHeadHome {
+width: 80%;
+padding: 0px 0 10px 0 !important;
+line-height: 4.5rem;
+}
+
+#isHome1 {
+width: 92px;
+height: 300px;
+background-image: url("images/how/isHome1.png");
+background-position: 0px 5px;
+margin-left: 85%;
+background-repeat: no-repeat;
+position: absolute;
+z-index: 99;
+float: right;
+margin-top: -0px;
+}
+
+#isHome2 {
+width: 154px;
+height: 300px;
+background-image: url("images/how/isHome2.png");
+background-position: 0px 5px;
+margin-left: 5%;
+background-repeat: no-repeat;
+position: absolute;
+z-index: 99;
+float: right;
+margin-top: -90px;
+}
+
+.messeHead {
+margin-bottom: 0px;
+
+}
+
+.konferenzHead {
+margin-bottom: 0px;
+}
+
+.meetingHead {
+margin-bottom: 0px;
+}
+
+#recentApp3{display:none;}
+#recentApp6{display:none;}
+#recentApp9{display:none;}
+
+.carousel-control.right {display:none;}
+.carousel-control.left {display:none;}
+
+#footerMap {
+background-image: url("images/footer/footerMap.png");
+background-position: 0px 5px;
+background-size: 65% 100%;
+background-repeat: no-repeat;
+margin: 0 auto;
+margin-top: 195px;
+margin-bottom: -270px;
+min-width: 285px;
+max-width: 370px;
+min-height: 210px;
+
+}
+
+
+
+/*--------------------------------------------Produkt-Ipad*/
+
+
+
+#sectionHeadHome {
+width: 80%;
+padding: 0px 0 10px 0;
+line-height: 4.5rem;
+}
+#case-iphone {
+background-image: url("images/cases/iphone-main-case.png");
+background-repeat: no-repeat;
+background-size: 70%;
+background-position: 0 4px;
+height: 560px;
+z-index: 0;
+width: 550px;
+margin: 0 auto;
+margin-top: -483px;
+position: relative;
+margin-left: -90px;
+margin-bottom: 0px;
+}
+
+.caseSlide1 {
+background-image: url("images/cases/caseSlide1.jpg");
+background-repeat: no-repeat;
+background-size: 70%;
+height: 400px;
+width: 250px;
+margin-top: -30px;
+margin-left: 23px;
+z-index: 99;
+}
+
+.caseSlide2 {
+background-image: url("images/cases/caseSlide2.jpg");
+background-repeat: no-repeat;
+background-size: 70%;
+height: 400px;
+width: 250px;
+margin-top: -30px;
+margin-left: 23px;
+z-index: 99;
+}
+
+
+
+#aboutIcon1{
+  background-image:url("images/stuff/company1.png");
+  background-repeat:no-repeat;
+  background-position:50% 50%;
+  display: block;
+  margin:0 auto;
+  text-align:center;
+  min-height: 450px;
+
+min-width: 100px;
+text-indent: -9999px;
+margin-top: 0%;
+transition: all 0.5s ease;
+-moz-background-size: contain;
+-webkit-background-size: contain;
+background-size: contain;
+
+  }
+
+/*-------------------------------------------------------------CASES----------*/
+/*--------------------------------------------------------------Casestudy Anuga-----------*/
+#caseSixAn {
+background-image: url("images/cases/caseSixAn-ipad.png");
+background-repeat: no-repeat;
+margin-top: 20px;
+display: block;
+min-height: 600px;
+min-width: 100%;
+text-indent: -9999px;
+-moz-background-size: contain;
+-webkit-background-size: contain;
+background-size: contain;
+}
+
+
+
+}
+
+
+
+@media only screen
+and (max-width : 480px) {
+
+  #logoTop {
+margin-left: 10px;
+width: 325px;
+height: 40px;
+background-image: url("images/stuff/logo-smart.png");
+background-position: 0px 9px;
+background-repeat: no-repeat;
+list-style: none;
+}
+
+.heroPhone{display:none;
+}
+
+.buttonHero {
+width: 170px;
+margin-left: 0px;
+padding: 5px;
+background-color: rgba(51, 51, 51, .0);
+border: solid 1px #fff;
+border-radius: 2px;
+margin-top: 0px;
+font-weight: 300;
+display: block;
+color: #fff;
+-webkit-transition: background .3s linear;
+-moz-transition: background .3s linear;
+transition: background .3s linear;
+}
+
+.buttonHero:hover {
+background-color: rgba(53, 119, 187, .6);
+}
+
+  p {
+margin: 0 0 20px;
+color: #545759;
+font-family: Source sans Pro;
+font-size: 1.4rem;
+line-height: 1.9rem;
+font-weight: 300;
+text-shadow: 0px 2px 2px rgba(255, 255, 255, 1);
+}
+
+  /* H1,H2 Groups */
+h1, .h1 {
+  margin-top:25px;
+  font-size: 24px;
+}
+h2, .h2 {
+  font-size: 20px;
+}
+/* helpers */
+  .padBot80 {
+margin-bottom: 0px;
+}
+  .hover {
+height: 100%;
+padding-top: 10px;
+}
+
+.footer-wrapper {
+padding-left: 0px;
+padding-top: 40px;
+margin-left: 0px;
+color: #ffffff;
+background-color: #24323f;
+}
+
+.jobLead {
+text-align: center;
+margin: 0 auto;
+width: 80%;
+font-size: 1.3rem;
+line-height: 1.8rem;
+font-weight: 400;
+}
+
+#serviceIcon{
+  position:absolute;
+  background-image:url("images/service/service1.png");
+  background-repeat:no-repeat;
+  background-size: 60%;
+height: 40px;
+width: 40px;
+  margin-top:-72px;
+  margin-left: 50%;
+  z-index:9999;
+  }
+
+#serviceIcon1 {
+position: absolute;
+background-image: url("images/service/service1.png");
+background-repeat: no-repeat;
+background-size: 60%;
+height: 40px;
+width: 40px;
+margin-top: -72px;
+margin-left: 50%;
+z-index: 9999;
+}
+
+#serviceIcon2{
+  position:absolute;
+  background-image:url("images/service/service1.png");
+  background-repeat:no-repeat;
+  background-size: 60%;
+height: 40px;
+width: 40px;
+margin-top: -72px;
+  margin-left: 50%;
+  z-index:9999;
+  }
+
+#serviceIcon3{
+  position:absolute;
+  background-image:url("images/service/service1.png");
+  background-repeat:no-repeat;
+  background-size: 60%;
+height: 40px;
+width: 40px;
+margin-top: -72px;
+  margin-left: 50%;
+  z-index:9999;
+  }
+
+#serviceIcon4{
+  background-image:url("images/service/service4.png");
+  background-repeat:no-repeat;
+  margin-top:70px;
+  height: 0px;
+    width: 0px;
+  }
+
+.case-icon1 {
+#serviceIcon {
+position: absolute;
+background-image: url("images/service/service1.png");
+background-repeat: no-repeat;
+background-size: 60%;
+height: 40px;
+width: 40px;
+margin-top: -22px;
+margin-left: 47%;
+z-index: 9999;
+}
+
+#impressumIcon1 {
+position: absolute;
+background-image: url("images/service/service1.png");
+background-repeat: no-repeat;
+background-size: 60%;
+height: 40px;
+width: 40px;
+margin-top: -72px;
+margin-left: 50%;
+z-index: 99;
+}
+
+
+/* ------------------------------------------------------------------Home */
+#logoTop {
+margin-left: 10px;
+width: 325px;
+height: 40px;
+background-image: url("images/stuff/logo-smart.png");
+background-position: 0px 9px;
+background-repeat: no-repeat;
+list-style: none;
+}
+
+.heroText {
+min-width: 100%;
+padding: 20px;
+padding-left: 20px;
+margin-left: -20px !important;
+margin-top: -80px !important;
+margin-bottom: -20px;
+-moz-background-size: contain;
+-webkit-background-size: contain;
+background-size: contain;
+background: rgb(255, 255, 255);
+background: rgba(51, 51, 51, .0);
+background: #fff .5;
+}
+
+#homeIcon1 {
+height: 130px;
+}
+#homeIcon2 {
+height: 130px;
+}
+
+#homeIcon3 {
+height: 130px;
+}
+#homeIcon4 {
+height: 130px;
+}
+
+
+#sectionHomeVideo {
+margin-top: 10px;
+margin: 0 auto;
+margin-bottom: -40px;
+height: 80px;
+background-color: #ededed;
+z-index: 9;
+background: url("images/home/ipadvideo.png") #ededed 50% 0 fixed;
+background-size: 900px auto;
+background-repeat: repeat-y;
+
+width: 100%;
+position: relative;
+border-bottom: solid 1px #fff;
+border-top: solid 1px #fff;
+box-shadow: 1px 0 0 1px #ededed;
+padding: 0px 0 0 0;
+}
+
+.videoLap {
+background-image: url("images/home/lapvideo.png");
+background-repeat: no-repeat;
+background-size: 100%;
+min-width: 100%;
+max-width: 100%;
+min-height: 190px;
+margin-top: -80px;
+z-index: 9999;
+-moz-background-size: contain;
+-webkit-background-size: contain;
+background-size: contain;
+}
+
+
+.buttonVideo {
+background-image: url("images/icons/buttonArrow.png");
+background-repeat: no-repeat;
+background-position: 50% 50%;
+position: absolute;
+width: 60px;
+height: 60px;
+margin-bottom: -100px;
+padding: 5px;
+background-color: rgba(51, 51, 51, .0);
+border-radius: 90px;
+margin-top: 50px;
+border: solid 3px #fff;
+font-weight: 400;
+color: #fff;
+margin-left: 20px;
+-webkit-transition: background .3s linear;
+-moz-transition: background .3s linear;
+transition: background .3s linear;
+margin-right: -60px;
+}
+.buttonVideo:hover {
+width: 60px;
+height: 60px;
+margin-bottom: -800px;
+padding: 10px;
+background-color: #005695;
+border-radius: 90px;
+margin-top: 50px;
+font-weight: 400;
+color: #fff;
+-webkit-transition: background .3s linear;
+-moz-transition: background .3s linear;
+transition: background .3s linear;
+}
+.weiterHead {
+background: rgba(51, 51, 51, .0);
+display: block;
+color: #fff;
+float: left;
+color: #fff;
+margin-bottom: -100px;
+font-size: 2.5rem;
+text-align: left;
+padding: 0px;
+font-family: "Titillium Web", arial, sans-serif;
+margin-top: -25px;
+font-weight: 400;
+}
+
+.buttonFooter {
+width: 320px;
+margin-left: 10px;
+padding: 5px;
+background-color: rgba(51, 51, 51, .0);
+border: solid 2px #fff;
+border-radius: 2px;
+margin-top: 50px;
+font-weight: 400;
+color: #fff;
+-webkit-transition: background .3s linear;
+-moz-transition: background .3s linear;
+transition: background .3s linear;
+}
+
+.buttonFooter:first-child{margin-left:-10px;}
+.buttonFooter:hover{
+  padding:5px;
+  background-color:rgba(53, 119, 187, .6);
+  border-radius:2px;
+  margin-top:50px;
+  font-weight:400;
+  color:#fff;
+  -webkit-transition: background .3s linear;
+  -moz-transition: background .3s linear;
+  transition: background .3s linear;
+  }
+
+
+.buttonFooter:after {
+content: none;
+width: 0px;
+height: 20px;
+background-image: none;
+background-position: 10px 5px;
+background-size: 0px 0px;
+background-repeat: no-repeat;
+}
+.buttonFooter:hover:after{
+  content:none;
+  width:25px;
+  height:20px;
+  background-image:url("images/icons/buttonArrow.png");
+  background-position:10px 5px;
+  background-size:10px 10px;
+  background-repeat:no-repeat;
+    }
+
+
+#footerMap {
+display:none;
+
+}
+.content ul, ol {
+line-height: 15pt;
+font-size: 1.3rem;
+}
+
+.bullitListRef li:before{content:url("images/icons/space.png");
+margin-left:-20px;
+  width:25px;
+  height:20px;
+  background-image: url("images/icons/buttonArrowBlue.png");
+  background-position: 3px 3px;
+  background-size: 10px 10px;
+  background-repeat: no-repeat;
+  font-family: Source sans Pro;
+font-size: 1.3rem;}
+
+#home2 {
+background: url(images/stuff/home2.jpg) 50% 0 fixed;
+height: 190px;
+margin: 0 auto;
+width: 100%;
+position: relative;
+box-shadow: 0 0 0px rgba(0,0,0,0);
+padding: 72px 0;
+z-index: 9;
+border-top: solid 1px #999;
+-moz-box-shadow: inset 0 0 9px rgba(0,0,0,0.6);
+-webkit-box-shadow: inset 0 0 9px rgba(0,0,0,0.6);
+box-shadow: inset 0 0 9px rgba(0,0,0,0.6);
+}
+
+/* ------------------------------------------------------------------Produkt */
+
+#sectionHeadHome {
+width: 80%;
+padding: 0px 0 10px 0 !important;
+line-height: 4.5rem;
+}
+
+
+#hero {
+background: url(images/stuff/home1.jpg) 50% 0 absolute !important;
+height: 430px;
+margin: 0 auto;
+width: 100%;
+
+box-shadow: 0 0 0px rgba(0,0,0,0);
+padding: 140px 0;
+z-index: 99;
+}
+#produkt {
+background: url(images/stuff/produkt1.jpg) 50% 0% fixed;
+height: 70px;
+margin: 0 auto;
+width: 100%;
+position: relative;
+box-shadow: 0 0 0px rgba(0,0,0,0);
+padding: 90px 0;
+z-index: 9;
+}
+
+#company {
+  background: url(images/stuff/company.jpg) 50% 0 fixed;
+  height: 70px;
+margin: 0 auto;
+width: 100%;
+position: relative;
+box-shadow: 0 0 0px rgba(0,0,0,0);
+padding: 90px 0;
+z-index: 9;
+}
+
+
+#referenzen {
+background: url(images/stuff/referenzen.jpg) 50% 0 fixed;
+height: 70px;
+margin: 0 auto;
+width: 100%;
+position: relative;
+box-shadow: 0 0 0px rgba(0,0,0,0);
+padding: 90px 0;
+z-index: 9;
+}
+
+#company1 {
+  background: url(images/stuff/company1.jpg) 50% 0 fixed;
+  height: 70px;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 0 0px rgba(0,0,0,0);
+  padding: 90px 0;
+  z-index: 9;
+}
+
+#jobsMitte{
+  background: url(images/stuff/company1.jpg) 50% 0 fixed;
+  height: 70px;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 0 0px rgba(0,0,0,0);
+  padding: 90px 0;
+  z-index: 9;
+}
+#about {
+    background: #ededed;
+
+    /*background: url(images/about.png) 50% 0 fixed; */
+    height: auto;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    padding: 100px 0;
+
+}
+
+
+
+
+#referenzen1 {
+background: url(images/stuff/referenzen1.jpg) 50% 0 fixed;
+height: 70px;
+margin: 0 auto;
+width: 100%;
+position: relative;
+box-shadow: 0 0 0px rgba(0,0,0,0);
+padding: 90px 0;
+z-index: 9;
+-moz-box-shadow: inset 0 0 9px rgba(0,0,0,0.6);
+-webkit-box-shadow: inset 0 0 9px rgba(0,0,0,0.6);
+box-shadow: inset 0 0 9px rgba(0,0,0,0.6);
+}
+
+#team {
+background: url(images/stuff/referenzen1.jpg) 50% 0 fixed;
+height: 70px;
+margin: 0 auto;
+width: 100%;
+position: relative;
+box-shadow: 0 0 0px rgba(0,0,0,0);
+padding: 90px 0;
+z-index: 9;
+}
+
+
+
+/*----------------------Media Query phone HELPERS*/
+
+.padTop50 {
+margin-top: 15px;
+}
+.padBot50 {
+margin-Bottom: 5px;
+}
+
+/*----------------------Media Query phone HOMEPAGE*/
+#home {
+background: url(images/stuff/home1.jpg) 50% 0 fixed;
+height: 70px;
+margin: 0 auto;
+width: 100%;
+position: relative;
+box-shadow: 0 0 0px rgba(0,0,0,0);
+padding: 90px 0;
+z-index: 9;
+}
+
+
+#homeArrow1 {
+position: absolute;
+background-image: url("images/service/service1.png");
+background-repeat: no-repeat;
+background-size: 60%;
+height: 40px;
+width: 40px;
+margin-top: 16px;
+margin-left: 50%;
+z-index: 9999;
+display:none;
+}
+
+#sectionLogosHome {
+background: #ededed;
+z-index: 9;
+height: 0%;
+margin: 0 auto;
+position: relative;
+padding: 0px 0 0 0;
+border-top: solid 1px #fff;
+border-bottom: solid 0px #fff;
+box-shadow: 1px 0 0 1px #ededed;
+}
+
+#sectionHeadHome1 {
+width: 80%;
+padding: 5px 0 10px 0;
+line-height: 4.5rem;
+}
+
+
+.panel-group .panel-heading+.panel-collapse .panel-body {
+border-top: 0px solid #dddddd;
+background-color: #ededed;
+font-size: 1.4rem;
+line-height: 1.9rem;
+}
+#service-gfx1 {
+  background-image: url("images/product/personalisierung.png");
+  background-repeat: no-repeat;
+  max-height:200px;
+  z-index: 99999999;
+  width: 100%;
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-bottom: -40px;
+  -moz-background-size: contain;
+  -webkit-background-size: contain;
+  background-size: contain;
+}
+
+#service-gfx2 {
+  background-image: url("images/product/erstellung.png");
+  background-repeat: no-repeat;
+  background-position: 0 4px;
+  max-height: 200px;
+  z-index: 99999999;
+  width: 100%;
+  margin: 0 auto;
+  margin-left: 0%;
+  margin-top: 0px;
+  margin-bottom: -20px;
+  -moz-background-size: contain;
+  -webkit-background-size: contain;
+  background-size: contain;
+}
+
+#service-gfx3{
+
+  background-image:url("images/product/promotion.png");
+  background-repeat:no-repeat;
+  background-position:0 4px;
+  max-height:200px;
+  z-index:99999999;
+  width:100%;
+  margin:0 auto;
+  margin-left:0px;
+  margin-top:-20px;
+  margin-bottom:-20px;
+  right:0px;
+  -moz-background-size: contain;
+  -webkit-background-size: contain;
+  background-size: contain;
+
+  }
+
+
+  #service-gfx4{
+
+  background-image:url("images/product/analyse.png");
+  background-repeat:no-repeat;
+  background-position:0 4px;
+  max-height:200px;
+  z-index:99999999;
+  width:100%;
+  margin:0 auto;
+  margin-left:0px;
+  margin-top:0px;
+  margin-bottom:-20px
+  right:0px;
+  -moz-background-size: contain;
+  -webkit-background-size: contain;
+  background-size: contain;
+  }
+
+
+
+.kontaktImg {
+background-image: url("images/team/franka.jpg");
+background-size: 162px 162px;
+background-repeat: no-repeat;
+background-color: none;
+height: 162px;
+width: 100%;
+margin-bottom: 50px;
+}
+
+
+ /*-------------------------------------------------CASES*/
+.clientNav li {
+  font-size: 16px;
+  font-size: 1.3rem;
+  padding: 10px 0px 0px 0px;
+  float: left;
+  color: #2a6496;
+  margin: 0 auto;
+  display: block;
+  width: 95px;
+  text-align: center;
+  font-weight: 400;
+  height: 50px;
+  -webkit-transition: background .3s linear;
+  -moz-transition: background .3s linear;
+  transition: background .3s linear;
+  outline: none;
+}
+
+.case-icon1 {
+background-image: url("images/icons/cases-icon-1.png");
+background-repeat: no-repeat;
+background-size: 14px 14px;
+background-position: 0 4px;
+height: 35px;
+padding-left: 21px;
+margin-top: 35px;
+}
+
+.clientNav {
+
+margin-top: -2px !important;
+width: 100%;
+background: #FFF;
+height: 40px;
+z-index: 99;
+box-shadow: 0 0 3px rgba(0,0,0,0.3);
+outline: none;
+}
+
+.clientNav ul {
+max-width: 500px;
+margin-top: 0px;
+margin-left: -40px !important;
+outline: none;
+margin: 0 auto;
+}
+
+.clientNav li {
+font-size: 16px;
+font-size: 1.3rem;
+padding: 7px 0px 0px 0px;
+float: left;
+border-right: solid 1px #ededed;
+color: #2a6496;
+margin: 0 auto;
+display: block;
+width: 90px;
+text-align: center;
+font-weight: 400;
+height: 40px;
+-webkit-transition: background .3s linear;
+-moz-transition: background .3s linear;
+transition: background .3s linear;
+outline: none;
+}
+
+#aboutIcon1{
+  background-image:url("images/stuff/company2.png");
+  background-repeat:no-repeat;
+  background-position:50% 50%;
+  display: block;
+  margin:0 auto;
+  text-align:center;
+  min-height: 550px;
+
+min-width: 100px;
+text-indent: -9999px;
+margin-top: 0%;
+transition: all 0.5s ease;
+-moz-background-size: contain;
+-webkit-background-size: contain;
+background-size: contain;
+
+  }
+
+#nav_menu-4 {
+margin-left: -15px;
+}
+
+}

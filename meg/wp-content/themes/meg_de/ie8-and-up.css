@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+   margin: 0 0 20px;
+	color: #545759;
+	font-family: Source sans Pro;
+	font-size: 16px;
+	line-height: 2.5rem;
+	font-weight: 400;	
+}/* =16px */
+
+.weiterhead{font-size:45px;
+font-weight:600;}
